@@ -83,11 +83,6 @@ To delete an Amplify project that has been deployed from the Amplify Development
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-## Contacts
-
-- [Kihoon Kwon](https://github.com/kyoonkwon)
-- [Sukwon Lee](https://github.com/ltrain81)
-
 
 ## License
 
